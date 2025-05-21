@@ -10,6 +10,7 @@ FICHIER expliquant l’installation :
 
 notre Présentation powerpoint :
 
+[Beige et Bleu Minimaliste Projet Entreprise Présentation.pptx](https://github.com/user-attachments/files/20374529/Beige.et.Bleu.Minimaliste.Projet.Entreprise.Presentation.pptx)
 
 
 
