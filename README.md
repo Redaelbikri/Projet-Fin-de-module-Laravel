@@ -4,3 +4,11 @@
 # Projet-Fin-de-module-Laravel
 Vous allez développer DevProfile, une application web où les utilisateurs authentifiés peuvent créer un profil de développeur, ajouter des projets et des compétences, et générer un CV au format PDF. Ce projet montre comment Laravel permet de construire rapidement une application fonctionnelle avec peu de code.
 
+FICHIER expliquant l’installation :
+
+[Guide_Installation_DevProfile.docx](https://github.com/user-attachments/files/20374472/Guide_Installation_DevProfile_Laravel.docx)
+
+
+
+
+
